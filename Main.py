@@ -67,7 +67,7 @@ NO_FACE_SEC = 3.0
 CLOUD_COOLDOWN_SEC = 60   # min gap between cloud alerts
 
 VOICE_ENABLED = True
-VOICE_REPEAT_SEC = 0.1  # repeat the same spoken warning at most this often
+VOICE_REPEAT_SEC = 0.5  # repeat the same spoken warning at most this often
 VOICE_LINES = {
     "Eyes closed too long": "Danger! Wake up! Please pull over.",
     "High fatigue score": "You seem very tired. Please pull over and rest.",
