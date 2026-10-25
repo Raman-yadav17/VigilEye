@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.env
+face_landmarker.task
+events.csv
+session_summary.csv

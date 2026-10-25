@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+numpy
+boto3   # optional, only for AWS SNS alerts
